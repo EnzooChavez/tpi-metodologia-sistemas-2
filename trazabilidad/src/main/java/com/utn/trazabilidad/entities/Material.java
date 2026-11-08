@@ -26,3 +26,4 @@ public class Material {
         this.codigoBase = prefijo + loteAnio.toUpperCase() + "-" + java.time.LocalDate.now().getYear();
 
 }
+}
